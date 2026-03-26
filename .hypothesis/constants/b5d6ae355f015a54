@@ -1,0 +1,4 @@
+# file: C:\Users\user121\AppData\Roaming\Python\Python314\site-packages\aws_xray_sdk\core\context.py
+# hypothesis_version: 6.151.6
+
+['IGNORE_ERROR', 'LOG_ERROR', 'No segment to end', 'RUNTIME_ERROR', 'entities', 'subsegment', 'type']

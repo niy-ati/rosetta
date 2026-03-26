@@ -1,0 +1,4 @@
+# file: C:\Users\user121\AppData\Roaming\Python\Python314\site-packages\aws_cdk\cloudformation_include\__init__.py
+# hypothesis_version: 6.151.6
+
+[', ', '=', 'CfnInclude', 'CfnIncludeProps', 'CfnIncludeProps(%s)', 'IncludedNestedStack', 'argument id', 'argument logical_id', 'argument parameters', 'argument rule_name', 'argument scope', 'argument stack', 'condition_name', 'getCondition', 'getHook', 'getMapping', 'getNestedStack', 'getOutput', 'getParameter', 'getResource', 'getRule', 'hook_logical_id', 'id', 'includedTemplate', 'included_template', 'loadNestedStack', 'loadNestedStacks', 'load_nested_stacks', 'logical_id', 'mapping_name', 'parameter_name', 'parameters', 'preserveLogicalIds', 'preserve_logical_ids', 'rule_name', 'scope', 'stack', 'templateFile', 'template_file']

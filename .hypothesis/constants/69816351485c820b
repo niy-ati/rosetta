@@ -1,0 +1,4 @@
+# file: C:\Users\user121\AppData\Roaming\Python\Python314\site-packages\aws_cdk\aws_resourceexplorer2\__init__.py
+# hypothesis_version: 6.151.6
+
+[', ', '=', 'CfnIndex', 'CfnIndexProps', 'CfnIndexProps(%s)', 'CfnView', 'CfnViewProps', 'CfnViewProps(%s)', 'FiltersProperty(%s)', 'argument filters', 'argument id', 'argument inspector', 'argument name', 'argument props', 'argument scope', 'argument scope_', 'argument tags', 'argument type', 'argument value', 'argument view_arn', 'argument view_name', 'attrArn', 'attrIndexState', 'attrViewArn', 'cfnProperties', 'filterString', 'filter_string', 'filters', 'id', 'includedProperties', 'included_properties', 'inspect', 'inspector', 'name', 'props', 'renderProperties', 'scope', 'scope_', 'tags', 'tagsRaw', 'type', 'value', 'viewArn', 'viewName', 'view_arn', 'view_name']

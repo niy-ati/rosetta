@@ -1,0 +1,4 @@
+# file: C:\Users\user121\Rosetta\rosetta_zero\lambdas\ingestion_engine\logic_map_extractor.py
+# hypothesis_version: 6.151.6
+
+[0.0, 100000, '1.0', 'Invoking Bedrock', '```', '```json', 'anthropic_version', 'application/json', 'artifact_id', 'artifact_type', 'artifact_version', 'bedrock-2023-05-31', 'bedrock_invoked', 'body', 'bucket', 'content', 'entry_points_count', 'input_tokens', 'logic_map_s3_key', 'max_tokens', 'messages', 'model_id', 'output_tokens', 'prompt_length', 'role', 's3_key', 'temperature', 'text', 'usage', 'user', 'utf-8', 'validation_errors']

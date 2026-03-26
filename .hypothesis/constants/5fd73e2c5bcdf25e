@@ -1,0 +1,4 @@
+# file: C:\Users\user121\AppData\Roaming\Python\Python314\site-packages\aws_cdk\aws_directoryservice\__init__.py
+# hypothesis_version: 6.151.6
+
+[', ', '=', 'CfnMicrosoftAD', 'CfnMicrosoftADProps', 'CfnSimpleAD', 'CfnSimpleADProps', 'CfnSimpleADProps(%s)', 'argument description', 'argument edition', 'argument enable_sso', 'argument id', 'argument inspector', 'argument name', 'argument password', 'argument props', 'argument scope', 'argument short_name', 'argument size', 'argument subnet_ids', 'argument value', 'argument vpc_id', 'attrAlias', 'attrDirectoryId', 'attrDnsIpAddresses', 'attrId', 'cfnProperties', 'createAlias', 'create_alias', 'description', 'edition', 'enableSso', 'enable_sso', 'id', 'inspect', 'inspector', 'name', 'password', 'props', 'renderProperties', 'scope', 'shortName', 'short_name', 'size', 'subnetIds', 'subnet_ids', 'value', 'vpcId', 'vpcSettings', 'vpc_id', 'vpc_settings']

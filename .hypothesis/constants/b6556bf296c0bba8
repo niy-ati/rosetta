@@ -1,0 +1,4 @@
+# file: C:\Users\user121\AppData\Roaming\Python\Python314\site-packages\aws_cdk\aws_s3objectlambda\__init__.py
+# hypothesis_version: 6.151.6
+
+[', ', '=', 'AliasProperty(%s)', 'CfnAccessPoint', 'CfnAccessPointPolicy', 'CfnAccessPointProps', 'actions', 'allowedFeatures', 'allowed_features', 'argument actions', 'argument aws_lambda', 'argument id', 'argument inspector', 'argument is_public', 'argument name', 'argument props', 'argument scope', 'argument status', 'argument value', 'attrAlias', 'attrAliasStatus', 'attrAliasValue', 'attrArn', 'attrCreationDate', 'attrPolicyStatus', 'awsLambda', 'aws_lambda', 'blockPublicAcls', 'blockPublicPolicy', 'block_public_acls', 'block_public_policy', 'cfnProperties', 'functionArn', 'functionPayload', 'function_arn', 'function_payload', 'id', 'ignorePublicAcls', 'ignore_public_acls', 'inspect', 'inspector', 'isPublic', 'is_public', 'name', 'policyDocument', 'policy_document', 'props', 'renderProperties', 'scope', 'status', 'value']

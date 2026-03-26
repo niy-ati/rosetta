@@ -1,0 +1,4 @@
+# file: C:\Users\user121\Rosetta\rosetta_zero\utils\error_recovery.py
+# hypothesis_version: 6.151.6
+
+[500, 600, 'AWS500LevelError', 'CRITICAL', 'Code', 'ConnectionError', 'Error', 'HIGH', 'HTTPClientError', 'HTTPStatusCode', 'InternalError', 'InternalFailure', 'InternalServerError', 'Message', 'RequestLimitExceeded', 'RequestTimeout', 'ResponseMetadata', 'ServiceId', 'ServiceUnavailable', 'ThrottledException', 'Throttling', 'ThrottlingException', 'Unknown', 'attempt', 'attempts', 'component', 'delay_seconds', 'error', 'error_code', 'error_type', 'last_error', 'max_retries', 'operation', 'service', 'unknown']

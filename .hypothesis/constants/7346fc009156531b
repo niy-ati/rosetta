@@ -1,0 +1,4 @@
+# file: C:\Users\user121\AppData\Roaming\Python\Python314\site-packages\aws_cdk\aws_route53_patterns\__init__.py
+# hypothesis_version: 6.151.6
+
+[', ', '=', 'HttpsRedirect', 'HttpsRedirectProps', 'argument certificate', 'argument id', 'argument scope', 'argument zone', 'certificate', 'id', 'recordNames', 'record_names', 'scope', 'targetDomain', 'target_domain', 'zone']

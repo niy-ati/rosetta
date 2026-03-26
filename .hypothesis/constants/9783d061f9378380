@@ -1,0 +1,4 @@
+# file: C:\Users\user121\AppData\Roaming\Python\Python314\site-packages\aws_xray_sdk\core\sampling\sampling_rule.py
+# hypothesis_version: 6.151.6
+
+['Default', 'borrow_count', 'host', 'method', 'path', 'request_count', 'sampled_count', 'service', 'service_type']

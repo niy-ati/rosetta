@@ -1,0 +1,8 @@
+# Certificate Generator Lambda Requirements
+
+# AWS Lambda PowerTools for structured logging, tracing, and metrics
+aws-lambda-powertools>=2.31.0
+
+# AWS SDK for Python
+boto3>=1.34.0
+botocore>=1.34.0

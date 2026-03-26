@@ -1,0 +1,4 @@
+# file: C:\Users\user121\AppData\Roaming\Python\Python314\site-packages\aws_cdk\aws_codestar\__init__.py
+# hypothesis_version: 6.151.6
+
+[', ', '=', 'CfnGitHubRepository', 'CodeProperty(%s)', 'S3Property(%s)', 'argument bucket', 'argument code', 'argument id', 'argument inspector', 'argument is_private', 'argument key', 'argument props', 'argument s3', 'argument scope', 'argument value', 'attrId', 'bucket', 'cfnProperties', 'code', 'connectionArn', 'connection_arn', 'enableIssues', 'enable_issues', 'id', 'inspect', 'inspector', 'isPrivate', 'is_private', 'key', 'objectVersion', 'object_version', 'props', 'renderProperties', 'repositoryName', 'repositoryOwner', 'repository_name', 'repository_owner', 's3', 'scope', 'value']

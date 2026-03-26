@@ -1,0 +1,4 @@
+# file: C:\Users\user121\Rosetta\rosetta_zero\lambdas\ingestion_engine\handler.py
+# hypothesis_version: 6.151.6
+
+[200, 400, 500, 'AWS_REGION', 'Count', 'EARS_BUCKET', 'IngestionError', 'IngestionSuccess', 'KMS_KEY_ID', 'LOGIC_MAPS_BUCKET', 'RosettaZero', 'artifact_hash', 'artifact_id', 'artifact_type', 'body', 'ears_document_s3_key', 'error', 'ingestion-engine', 'ingestion_timestamp', 'logic_map_s3_key', 's3_bucket', 's3_key', 'statusCode', 'us-east-1']

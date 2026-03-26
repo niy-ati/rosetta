@@ -1,0 +1,4 @@
+# file: C:\Users\user121\AppData\Roaming\Python\Python314\site-packages\aws_cdk\aws_robomaker\__init__.py
+# hypothesis_version: 6.151.6
+
+[', ', '=', 'CfnFleet', 'CfnFleetProps', 'CfnFleetProps(%s)', 'CfnRobot', 'CfnRobotApplication', 'CfnRobotProps', 'CfnRobotProps(%s)', 'application', 'architecture', 'argument application', 'argument environment', 'argument fleet', 'argument id', 'argument inspector', 'argument name', 'argument props', 'argument s3_bucket', 'argument s3_key', 'argument scope', 'argument sources', 'argument tags', 'argument value', 'argument version', 'attrArn', 'cfnProperties', 'currentRevisionId', 'current_revision_id', 'environment', 'fleet', 'greengrassGroupId', 'greengrass_group_id', 'id', 'inspect', 'inspector', 'name', 'props', 'renderProperties', 'renderingEngine', 'rendering_engine', 'robotSoftwareSuite', 'robot_software_suite', 's3Bucket', 's3Key', 's3_bucket', 's3_key', 'scope', 'sources', 'tags', 'tagsRaw', 'value', 'version']

@@ -1,0 +1,4 @@
+# file: C:\Users\user121\AppData\Roaming\Python\Python314\site-packages\aws_lambda_powertools\shared\constants.py
+# hypothesis_version: 6.151.6
+
+[1000, 'AWS_CHALICE_CLI_MODE', 'AWS_LAMBDA_LOG_LEVEL', 'AWS_SAM_LOCAL', 'CRITICAL', 'DD_FLUSH_TO_LOG', 'DEBUG', 'ERROR', 'FATAL', 'INFO', 'LAMBDA_TASK_ROOT', 'LOG_LEVEL', 'NOTSET', 'POWERTOOLS_DEBUG', 'POWERTOOLS_DEV', 'POWERTOOLS_LOG_LEVEL', 'TRACE', 'WARN', 'WARNING', '[?;*()!$~^<>]', '_X_AMZN_TRACE_ID', 'aws_xray_sdk', 'aws_xray_sdk.core', 'cold_start', 'function_arn', 'function_memory_size', 'function_name', 'function_request_id', 'xray_trace_id']

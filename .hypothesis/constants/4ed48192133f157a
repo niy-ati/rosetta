@@ -1,0 +1,4 @@
+# file: C:\Users\user121\Rosetta\rosetta_zero\lambdas\certificate_generator\certificate_generation.py
+# hypothesis_version: 6.151.6
+
+['ExclusiveStartKey', 'FAIL', 'Items', 'LastEvaluatedKey', 'S', 'TableName', 'Z', 'certificate_id', 'creation_timestamp', 'entry_points_covered', 'execution_timestamp', 'identifier', 's3_location', 'sha256_hash', 'status', 'table', 'test_id', 'test_results_hash', 'total_entry_points', 'total_test_vectors', 'uncovered_branches', 'utf-8', 'version']

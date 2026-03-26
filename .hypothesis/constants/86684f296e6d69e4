@@ -1,0 +1,4 @@
+# file: C:\Users\user121\AppData\Roaming\Python\Python314\site-packages\aws_cdk\aws_signer\__init__.py
+# hypothesis_version: 6.151.6
+
+[', ', '=', 'CfnProfilePermission', 'CfnSigningProfile', 'ISigningProfile', 'Platform', 'SigningProfile', 'SigningProfileProps', 'action', 'argument action', 'argument id', 'argument inspector', 'argument platform', 'argument platform_id', 'argument principal', 'argument props', 'argument scope', 'argument tags', 'argument type', 'argument value', 'attrArn', 'attrProfileName', 'attrProfileVersion', 'cfnProperties', 'id', 'inspect', 'inspector', 'of', 'platform', 'platformId', 'platform_id', 'principal', 'profileName', 'profileVersion', 'profile_name', 'profile_version', 'props', 'renderProperties', 'scope', 'signatureValidity', 'signature_validity', 'signingProfileArn', 'signingProfileName', 'signing_profile_name', 'statementId', 'statement_id', 'tags', 'tagsRaw', 'type', 'value']

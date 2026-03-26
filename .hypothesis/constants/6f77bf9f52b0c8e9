@@ -1,0 +1,4 @@
+# file: C:\Users\user121\AppData\Roaming\Python\Python314\site-packages\aws_cdk\aws_lookoutvision\__init__.py
+# hypothesis_version: 6.151.6
+
+[', ', '=', 'CfnProject', 'CfnProjectProps', 'CfnProjectProps(%s)', 'argument id', 'argument inspector', 'argument props', 'argument scope', 'argument value', 'attrArn', 'cfnProperties', 'id', 'inspect', 'inspector', 'projectName', 'project_name', 'props', 'renderProperties', 'scope', 'value']

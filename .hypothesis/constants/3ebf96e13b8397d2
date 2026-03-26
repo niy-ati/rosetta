@@ -1,0 +1,4 @@
+# file: C:\Users\user121\AppData\Roaming\Python\Python314\site-packages\aws_cdk\aws_s3express\__init__.py
+# hypothesis_version: 6.151.6
+
+[', ', '=', 'CfnBucketPolicy', 'CfnBucketPolicyProps', 'CfnDirectoryBucket', 'argument bucket', 'argument bucket_name', 'argument id', 'argument inspector', 'argument props', 'argument scope', 'argument value', 'attrArn', 'bucket', 'bucketName', 'bucket_name', 'cfnProperties', 'dataRedundancy', 'data_redundancy', 'id', 'inspect', 'inspector', 'locationName', 'location_name', 'policyDocument', 'policy_document', 'props', 'renderProperties', 'scope', 'value']

@@ -1,0 +1,4 @@
+# file: C:\Users\user121\Rosetta\rosetta_zero\utils\retry.py
+# hypothesis_version: 6.151.6
+
+['attempt', 'attempts', 'delay_seconds', 'error', 'error_type', 'last_error', 'max_retries', 'operation']

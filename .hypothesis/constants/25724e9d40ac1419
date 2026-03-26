@@ -1,0 +1,4 @@
+# file: C:\Users\user121\AppData\Roaming\Python\Python314\site-packages\aws_cdk\aws_emrcontainers\__init__.py
+# hypothesis_version: 6.151.6
+
+[', ', '=', 'CfnVirtualCluster', 'EksInfoProperty(%s)', 'argument eks_info', 'argument id', 'argument info', 'argument inspector', 'argument name', 'argument namespace', 'argument props', 'argument scope', 'argument tags', 'argument type', 'argument value', 'attrArn', 'attrId', 'cfnProperties', 'containerProvider', 'container_provider', 'eksInfo', 'eks_info', 'id', 'info', 'inspect', 'inspector', 'name', 'namespace', 'props', 'renderProperties', 'scope', 'tags', 'tagsRaw', 'type', 'value']

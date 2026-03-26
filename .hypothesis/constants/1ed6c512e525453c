@@ -1,0 +1,4 @@
+# file: C:\Users\user121\Rosetta\rosetta_zero\lambdas\ingestion_engine\__init__.py
+# hypothesis_version: 6.151.6
+
+['IngestionEngine', 'lambda_handler']

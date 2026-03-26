@@ -1,0 +1,4 @@
+# file: C:\Users\user121\AppData\Roaming\Python\Python314\site-packages\aws_cdk\aws_s3_assets\__init__.py
+# hypothesis_version: 6.151.6
+
+[', ', '=', 'Asset', 'AssetOptions', 'AssetOptions(%s)', 'AssetProps', 'AssetProps(%s)', 'addResourceMetadata', 'argument asset_hash', 'argument bundling', 'argument deploy_time', 'argument exclude', 'argument grantee', 'argument id', 'argument ignore_mode', 'argument path', 'argument readers', 'argument resource', 'argument scope', 'assetHash', 'assetHashType', 'assetPath', 'asset_hash', 'asset_hash_type', 'bucket', 'bundling', 'deployTime', 'deploy_time', 'exclude', 'followSymlinks', 'follow_symlinks', 'grantRead', 'grantee', 'httpUrl', 'id', 'ignoreMode', 'ignore_mode', 'isFile', 'isZipArchive', 'path', 'readers', 'resource', 'resource_property', 's3BucketName', 's3ObjectKey', 's3ObjectUrl', 'scope']

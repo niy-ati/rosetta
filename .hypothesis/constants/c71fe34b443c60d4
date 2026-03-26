@@ -1,0 +1,4 @@
+# file: C:\Users\user121\Rosetta\infrastructure\certificates_replica_bucket.py
+# hypothesis_version: 6.151.6
+
+['*', 'ReplicaEncryptionKey', 's3.amazonaws.com', 's3:ReplicateDelete', 's3:ReplicateObject', 's3:ReplicateTags']

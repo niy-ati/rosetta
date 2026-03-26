@@ -1,0 +1,4 @@
+# file: C:\Users\user121\Rosetta\rosetta_zero\lambdas\hostile_auditor\handler.py
+# hypothesis_version: 6.151.6
+
+[0.95, 100, 200, 400, 500, 10000, 1000000, 'Body', 'BranchCoverage', 'Errors', 'Logic Map loaded', 'RandomTestsGenerated', 'RosettaZero', 'WORKFLOW_TABLE_NAME', 'aggression', 'application/json', 'artifact_id', 'batch_index', 'batch_size', 'batches_stored', 'body', 'control_flow_nodes', 'coverage_percent', 'dynamodb', 'entry_points', 'entry_points_covered', 'error', 'final_coverage', 'hostile-auditor', 'in_progress', 'logic_map_key', 'logic_map_s3_bucket', 'logic_map_s3_key', 'message', 'metadata', 'parameter', 'phase_name', 'random_seed', 's3', 's3_key', 'start_timestamp', 'status', 'statusCode', 'target_count', 'target_coverage', 'target_percent', 'total_batches', 'total_entry_points', 'total_vectors', 'uncovered_branches', 'utf-8', 'workflow_id']

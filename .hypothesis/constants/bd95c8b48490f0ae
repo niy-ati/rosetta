@@ -1,0 +1,4 @@
+# file: C:\Users\user121\Rosetta\rosetta_zero\lambdas\bedrock_architect\precision.py
+# hypothesis_version: 6.151.6
+
+[128, '\n## Rounding Modes\n', 'artifact_id', 'decimal.ROUND_DOWN', 'decimal.ROUND_UP', 'fixed_point_ops', 'floating_point_ops', 'import numpy as np\n\n', 'rounding_modes']

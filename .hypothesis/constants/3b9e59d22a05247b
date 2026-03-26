@@ -1,0 +1,4 @@
+# file: C:\Users\user121\AppData\Roaming\Python\Python314\site-packages\aws_cdk\aws_cur\__init__.py
+# hypothesis_version: 6.151.6
+
+[', ', '=', 'CfnReportDefinition', 'additionalArtifacts', 'additional_artifacts', 'argument compression', 'argument format', 'argument id', 'argument inspector', 'argument props', 'argument report_name', 'argument s3_bucket', 'argument s3_prefix', 'argument s3_region', 'argument scope', 'argument time_unit', 'argument value', 'billingViewArn', 'billing_view_arn', 'cfnProperties', 'compression', 'format', 'id', 'inspect', 'inspector', 'props', 'refreshClosedReports', 'renderProperties', 'reportName', 'reportVersioning', 'report_name', 'report_versioning', 's3Bucket', 's3Prefix', 's3Region', 's3_bucket', 's3_prefix', 's3_region', 'scope', 'timeUnit', 'time_unit', 'value']

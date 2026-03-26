@@ -1,0 +1,4 @@
+# file: C:\Users\user121\AppData\Roaming\Python\Python314\site-packages\aws_cdk\aws_codegurureviewer\__init__.py
+# hypothesis_version: 6.151.6
+
+[', ', '=', 'argument bucket_name', 'argument id', 'argument inspector', 'argument name', 'argument owner', 'argument props', 'argument scope', 'argument tags', 'argument type', 'argument value', 'attrAssociationArn', 'bucketName', 'bucket_name', 'cfnProperties', 'connectionArn', 'connection_arn', 'id', 'inspect', 'inspector', 'name', 'owner', 'props', 'renderProperties', 'scope', 'tags', 'tagsRaw', 'type', 'value']

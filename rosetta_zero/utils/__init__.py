@@ -1,0 +1,111 @@
+"""Utility modules for Rosetta Zero."""
+
+from .retry import (
+    RetryStrategy,
+    TransientError,
+    PermanentError,
+    BehavioralDiscrepancyError,
+    RetryExhaustedError,
+    with_retry,
+    log_retry_attempt,
+    log_retry_success,
+    log_retry_scheduled,
+    log_retry_exhausted,
+    log_permanent_error,
+)
+
+from .logging import (
+    logger,
+    tracer,
+    metrics,
+    configure_logging,
+    log_ingestion_decision,
+    log_architect_decision,
+    log_auditor_decision,
+    log_verification_decision,
+    log_error,
+    log_pii_detection,
+    log_test_failure,
+    log_certificate_generated,
+    log_aws_500_error,
+    publish_metric,
+    log_execution_metrics,
+    create_structured_log_entry,
+    log_structured,
+    log_immutable_decision,
+    log_ingestion_engine_decision,
+    log_bedrock_architect_decision,
+    log_hostile_auditor_decision,
+    log_verification_environment_decision,
+    log_test_failure_immutable,
+    log_workflow_phase_transition,
+    log_certificate_generation_decision,
+)
+
+from .monitoring import (
+    CloudWatchLogsManager,
+    EventBridgeManager,
+    SNSNotificationManager,
+    PerformanceMetricsPublisher,
+)
+
+from .error_recovery import (
+    EnhancedRetryStrategy,
+    with_enhanced_retry,
+    AWS500LevelError,
+    is_aws_500_error,
+    is_transient_error,
+)
+
+__all__ = [
+    # Retry utilities
+    "RetryStrategy",
+    "TransientError",
+    "PermanentError",
+    "BehavioralDiscrepancyError",
+    "RetryExhaustedError",
+    "with_retry",
+    "log_retry_attempt",
+    "log_retry_success",
+    "log_retry_scheduled",
+    "log_retry_exhausted",
+    "log_permanent_error",
+    # Logging utilities
+    "logger",
+    "tracer",
+    "metrics",
+    "configure_logging",
+    "log_ingestion_decision",
+    "log_architect_decision",
+    "log_auditor_decision",
+    "log_verification_decision",
+    "log_error",
+    "log_pii_detection",
+    "log_test_failure",
+    "log_certificate_generated",
+    "log_aws_500_error",
+    "publish_metric",
+    "log_execution_metrics",
+    "create_structured_log_entry",
+    "log_structured",
+    # Immutable audit logging
+    "log_immutable_decision",
+    "log_ingestion_engine_decision",
+    "log_bedrock_architect_decision",
+    "log_hostile_auditor_decision",
+    "log_verification_environment_decision",
+    "log_test_failure_immutable",
+    "log_workflow_phase_transition",
+    "log_certificate_generation_decision",
+    # Monitoring utilities
+    "CloudWatchLogsManager",
+    "EventBridgeManager",
+    "SNSNotificationManager",
+    "PerformanceMetricsPublisher",
+    # Enhanced error recovery
+    "EnhancedRetryStrategy",
+    "with_enhanced_retry",
+    "AWS500LevelError",
+    "is_aws_500_error",
+    "is_transient_error",
+]

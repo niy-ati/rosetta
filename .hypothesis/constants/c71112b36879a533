@@ -1,0 +1,4 @@
+# file: C:\Users\user121\AppData\Roaming\Python\Python314\site-packages\aws_cdk\aws_route53_targets\__init__.py
+# hypothesis_version: 6.151.6
+
+['ApiGateway', 'ApiGatewayDomain', 'BucketWebsiteTarget', 'CLOUDFRONT_ZONE_ID', 'CloudFrontTarget', 'LoadBalancerTarget', 'Route53RecordTarget', 'UserPoolDomainTarget', '_record', '_zone', 'accelerator', 'api', 'argument _record', 'argument _zone', 'argument accelerator', 'argument api', 'argument bucket', 'argument domain', 'argument domain_name', 'argument record', 'argument scope', 'argument zone', 'bind', 'bucket', 'distribution', 'domain', 'domain_name', 'environment_endpoint', 'getHostedZoneId', 'load_balancer', 'record', 'regional_domain_name', 'scope', 'vpc_endpoint', 'zone']

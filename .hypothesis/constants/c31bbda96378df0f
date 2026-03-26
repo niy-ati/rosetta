@@ -1,0 +1,4 @@
+# file: C:\Users\user121\Rosetta\rosetta_zero\lambdas\bedrock_architect\knowledge_base.py
+# hypothesis_version: 6.151.6
+
+[100, 50000, '\n\n---\n\n', '500', '503', 'content', 'error', 'kb-cobol-placeholder', 'language', 'numberOfResults', 'queries', 'retrievalResults', 's3_bucket', 's3_prefix', 'text', 'throttling', 'timeout', 'total_length']

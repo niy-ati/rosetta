@@ -1,0 +1,4 @@
+# file: C:\Users\user121\AppData\Roaming\Python\Python314\site-packages\aws_cdk\aws_apigatewayv2_authorizers\__init__.py
+# hypothesis_version: 6.151.6
+
+[', ', '=', 'HttpIamAuthorizer', 'HttpJwtAuthorizer', 'HttpLambdaAuthorizer', 'IAM', 'SIMPLE', 'argument handler', 'argument id', 'argument jwt_issuer', 'argument pool', 'authorizerName', 'authorizer_name', 'bind', 'handler', 'id', 'identitySource', 'identity_source', 'jwtAudience', 'jwt_audience', 'jwt_issuer', 'pool', 'responseTypes', 'response_types', 'resultsCacheTtl', 'results_cache_ttl', 'userPoolClients', 'userPoolRegion', 'user_pool_clients', 'user_pool_region']

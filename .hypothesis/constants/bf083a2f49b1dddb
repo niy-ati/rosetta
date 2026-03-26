@@ -1,0 +1,4 @@
+# file: C:\Users\user121\AppData\Roaming\Python\Python314\site-packages\aws_xray_sdk\core\emitters\udp_emitter.py
+# hypothesis_version: 6.151.6
+
+['%s%s%s', '127.0.0.1:2000', ':', 'utf-8']

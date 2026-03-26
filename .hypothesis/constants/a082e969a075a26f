@@ -1,0 +1,4 @@
+# file: C:\Users\user121\AppData\Roaming\Python\Python314\site-packages\aws_cdk\aws_cleanroomsml\__init__.py
+# hypothesis_version: 6.151.6
+
+[', ', '=', 'CfnTrainingDataset', 'DatasetProperty(%s)', 'argument catalog_id', 'argument column_name', 'argument data_source', 'argument description', 'argument id', 'argument inspector', 'argument name', 'argument props', 'argument role_arn', 'argument schema', 'argument scope', 'argument table_name', 'argument tags', 'argument type', 'argument value', 'attrStatus', 'catalogId', 'catalog_id', 'cdkTagManager', 'cfnProperties', 'columnName', 'columnTypes', 'column_name', 'column_types', 'dataSource', 'data_source', 'databaseName', 'database_name', 'description', 'glueDataSource', 'glue_data_source', 'id', 'inputConfig', 'input_config', 'inspect', 'inspector', 'name', 'props', 'renderProperties', 'roleArn', 'role_arn', 'schema', 'scope', 'tableName', 'table_name', 'tags', 'trainingData', 'training_data', 'type', 'value']

@@ -1,0 +1,1 @@
+"""Compliance reporter Lambda function."""

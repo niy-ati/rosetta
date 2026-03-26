@@ -1,0 +1,4 @@
+# file: C:\Users\user121\AppData\Roaming\Python\Python314\site-packages\aws_cdk\aws_mediaconvert\__init__.py
+# hypothesis_version: 6.151.6
+
+[', ', '=', 'CfnJobTemplate', 'CfnJobTemplateProps', 'CfnPreset', 'CfnPresetProps', 'CfnPresetProps(%s)', 'CfnQueue', 'CfnQueueProps', 'CfnQueueProps(%s)', 'accelerationSettings', 'argument category', 'argument description', 'argument id', 'argument inspector', 'argument mode', 'argument name', 'argument priority', 'argument props', 'argument queue', 'argument scope', 'argument status', 'argument tags', 'argument value', 'attrArn', 'attrId', 'attrName', 'category', 'cfnProperties', 'description', 'hopDestinations', 'hop_destinations', 'id', 'inspect', 'inspector', 'mode', 'name', 'pricingPlan', 'pricing_plan', 'priority', 'props', 'queue', 'renderProperties', 'scope', 'settingsJson', 'settings_json', 'status', 'statusUpdateInterval', 'tags', 'tagsRaw', 'value', 'waitMinutes', 'wait_minutes']

@@ -1,0 +1,4 @@
+# file: C:\Users\user121\AppData\Roaming\Python\Python314\site-packages\aws_cdk\aws_sns_subscriptions\__init__.py
+# hypothesis_version: 6.151.6
+
+[', ', '=', 'EmailSubscription', 'LambdaSubscription', 'SmsSubscription', 'SmsSubscriptionProps', 'SqsSubscription', 'SqsSubscriptionProps', 'SubscriptionProps', 'UrlSubscription', 'UrlSubscriptionProps', '_topic', 'argument _topic', 'argument fn', 'argument json', 'argument protocol', 'argument queue', 'argument topic', 'argument url', 'bind', 'deadLetterQueue', 'dead_letter_queue', 'email_address', 'filterPolicy', 'filter_policy', 'fn', 'json', 'phone_number', 'protocol', 'queue', 'rawMessageDelivery', 'raw_message_delivery', 'topic', 'url']

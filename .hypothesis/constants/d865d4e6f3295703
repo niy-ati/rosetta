@@ -1,0 +1,4 @@
+# file: C:\Users\user121\AppData\Roaming\Python\Python314\site-packages\aws_cdk\aws_connectcampaigns\__init__.py
+# hypothesis_version: 6.151.6
+
+[', ', '=', 'CfnCampaign', 'CfnCampaignProps', 'CfnCampaignProps(%s)', 'argument id', 'argument inspector', 'argument name', 'argument props', 'argument scope', 'argument tags', 'argument value', 'attrArn', 'bandwidthAllocation', 'bandwidth_allocation', 'cfnProperties', 'connectInstanceArn', 'connectQueueArn', 'connect_instance_arn', 'connect_queue_arn', 'dialerConfig', 'dialer_config', 'dialingCapacity', 'dialing_capacity', 'id', 'inspect', 'inspector', 'name', 'outboundCallConfig', 'outbound_call_config', 'props', 'renderProperties', 'scope', 'tags', 'tagsRaw', 'value']

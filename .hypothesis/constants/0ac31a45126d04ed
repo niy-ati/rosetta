@@ -1,0 +1,4 @@
+# file: C:\Users\user121\AppData\Roaming\Python\Python314\site-packages\aws_xray_sdk\sdk_config.py
+# hypothesis_version: 6.151.6
+
+['0', '1', 'AWS_XRAY_SDK_ENABLED', 'dummy', 'f', 'false', 'n', 'no', 'off', 'on', 't', 'true', 'y', 'yes']

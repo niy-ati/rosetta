@@ -1,0 +1,4 @@
+# file: C:\Users\user121\AppData\Roaming\Python\Python314\site-packages\aws_cdk\aws_systemsmanagersap\__init__.py
+# hypothesis_version: 6.151.6
+
+[', ', '=', 'CfnApplication', 'CfnApplicationProps', 'applicationId', 'applicationType', 'application_id', 'application_type', 'argument credentials', 'argument id', 'argument inspector', 'argument instances', 'argument props', 'argument scope', 'argument secret_id', 'argument sid', 'argument tags', 'argument value', 'attrArn', 'cfnProperties', 'credentialType', 'credential_type', 'credentials', 'databaseName', 'database_name', 'id', 'inspect', 'inspector', 'instances', 'props', 'renderProperties', 'sapInstanceNumber', 'sap_instance_number', 'scope', 'secretId', 'secret_id', 'sid', 'tags', 'tagsRaw', 'value']

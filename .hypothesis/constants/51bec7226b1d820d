@@ -1,0 +1,4 @@
+# file: C:\Users\user121\AppData\Roaming\Python\Python314\site-packages\aws_lambda_powertools\metrics\base.py
+# hypothesis_version: 6.151.6
+
+[1000, ',', ':', 'CloudWatchMetrics', 'ColdStart', 'Dimensions', 'Metrics', 'Name', 'Namespace', 'Serializing metrics', 'StorageResolution', 'Timestamp', 'Unit', 'Value', '_aws', 'details', 'dimensions', 'function_name', 'metrics', 'service']

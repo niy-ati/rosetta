@@ -1,0 +1,4 @@
+# file: C:\Users\user121\Rosetta\rosetta_zero\lambdas\ingestion_engine\error_handler.py
+# hypothesis_version: 6.151.6
+
+[500, 600, 'ClientError', 'Code', 'Error', 'HTTPStatusCode', 'Parameter', 'RequestTimeout', 'ResponseMetadata', 'ServiceName', 'ServiceUnavailable', 'ThrottlingException', 'TooManyRequests', 'Unknown', 'Value', 'bedrock-runtime', 'error_code', 'ingestion_engine', 'macie2', 'operation', 'service', 'sns', 'ssm', 'status_code']

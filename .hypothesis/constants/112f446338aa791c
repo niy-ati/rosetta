@@ -1,0 +1,4 @@
+# file: C:\Users\user121\AppData\Roaming\Python\Python314\site-packages\aws_cdk\aws_resourcegroups\__init__.py
+# hypothesis_version: 6.151.6
+
+[', ', '=', 'CfnGroup', 'CfnGroupProps', 'CfnGroupProps(%s)', 'QueryProperty(%s)', 'argument description', 'argument id', 'argument inspector', 'argument key', 'argument name', 'argument parameters', 'argument props', 'argument query', 'argument resources', 'argument scope', 'argument tag_filters', 'argument tags', 'argument type', 'argument value', 'argument values', 'attrArn', 'cfnProperties', 'configuration', 'description', 'id', 'inspect', 'inspector', 'key', 'name', 'parameters', 'props', 'query', 'renderProperties', 'resourceQuery', 'resourceTypeFilters', 'resource_query', 'resources', 'scope', 'stackIdentifier', 'stack_identifier', 'tagFilters', 'tag_filters', 'tags', 'tagsRaw', 'type', 'value', 'values']

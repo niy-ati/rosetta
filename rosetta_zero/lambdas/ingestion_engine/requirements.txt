@@ -1,0 +1,3 @@
+# Ingestion Engine Lambda dependencies
+boto3>=1.34.0
+aws-lambda-powertools>=2.31.0

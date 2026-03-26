@@ -1,0 +1,4 @@
+# file: C:\Users\user121\Rosetta\rosetta_zero\models\config.py
+# hypothesis_version: 6.151.6
+
+[0.0, 0.95, 1.0, 256, 512, 900, 1024, 2048, 2555, 4096, 30720, 1000000, '-', 'RosettaZeroConfig', 'af', 'ap', 'aws_region', 'bedrock_model_id', 'ca', 'central', 'east', 'eu', 'fargate_cpu', 'fargate_memory_mb', 'kms_key_id', 'knowledge_base_ids', 'legacy_container_uri', 'log_retention_days', 'max_retries', 'me', 'north', 'northeast', 'private_subnet_ids', 'random_seed', 's3_bucket_prefix', 'sa', 'south', 'southeast', 'subnet-', 'test_vector_count', 'us', 'vpc-', 'vpc_id', 'vpc_id is required', 'west']

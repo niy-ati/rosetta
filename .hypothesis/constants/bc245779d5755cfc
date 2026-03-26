@@ -1,0 +1,4 @@
+# file: C:\Users\user121\AppData\Roaming\Python\Python314\site-packages\aws_cdk\aws_servicecatalogappregistry\__init__.py
+# hypothesis_version: 6.151.6
+
+[', ', '=', 'CfnApplication', 'CfnApplicationProps', 'CfnAttributeGroup', 'application', 'argument application', 'argument attributes', 'argument description', 'argument id', 'argument inspector', 'argument name', 'argument props', 'argument resource', 'argument scope', 'argument tags', 'argument value', 'attrApplicationArn', 'attrApplicationName', 'attrArn', 'attrId', 'attrResourceArn', 'attributeGroup', 'attribute_group', 'attributes', 'cfnProperties', 'description', 'id', 'inspect', 'inspector', 'name', 'props', 'renderProperties', 'resource', 'resourceType', 'resource_type', 'scope', 'tags', 'tagsRaw', 'value']

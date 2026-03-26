@@ -1,0 +1,4 @@
+# file: C:\Users\user121\AppData\Roaming\Python\Python314\site-packages\boto3\s3\transfer.py
+# hypothesis_version: 6.151.6
+
+[100, 256, 1024, '.', 'DEFAULTS', 'io_chunksize', 'max_bandwidth', 'max_concurrency', 'max_io_queue', 'max_io_queue_size', 'multipart_chunksize', 'multipart_threshold', 'use_threads']
