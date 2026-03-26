@@ -1,4 +1,0 @@
-# file: C:\Users\user121\AppData\Roaming\Python\Python314\site-packages\aws_lambda_powertools\logging\lambda_context.py
-# hypothesis_version: 6.151.6
-
-[128, 'UNDEFINED', 'function_arn', 'function_memory_size', 'function_name', 'function_request_id']

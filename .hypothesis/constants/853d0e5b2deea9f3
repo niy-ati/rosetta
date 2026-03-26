@@ -1,4 +1,0 @@
-# file: C:\Users\user121\Rosetta\rosetta_zero\lambdas\bedrock_architect\timing.py
-# hypothesis_version: 6.151.6
-
-['_', 'artifact_id', 'import pytest\n\n', 'import time\n', 'timing_side_effects']

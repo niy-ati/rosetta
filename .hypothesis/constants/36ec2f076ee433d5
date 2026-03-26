@@ -1,4 +1,0 @@
-# file: C:\Users\user121\Rosetta\rosetta_zero\lambdas\certificate_generator\event_publisher.py
-# hypothesis_version: 6.151.6
-
-['COMPLETED', 'Detail', 'DetailType', 'Entries', 'EventBusName', 'EventId', 'MessageId', 'Source', 'Trust', 'Z', 'certificate_id', 'error', 'event_id', 'message', 'message_id', 'phase', 's3_location', 'status', 'subject', 'timestamp', 'workflow_id']

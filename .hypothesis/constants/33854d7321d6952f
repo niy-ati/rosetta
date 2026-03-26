@@ -1,4 +1,0 @@
-# file: C:\Users\user121\AppData\Roaming\Python\Python314\site-packages\aws_cdk\aws_logs_destinations\__init__.py
-# hypothesis_version: 6.151.6
-
-[', ', '=', 'KinesisDestination', 'LambdaDestination', '_source_log_group', 'addPermissions', 'add_permissions', 'argument fn', 'argument log_group', 'argument role', 'argument scope', 'argument stream', 'bind', 'fn', 'log_group', 'role', 'scope', 'stream']

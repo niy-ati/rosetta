@@ -1,4 +1,0 @@
-# file: C:\Users\user121\AppData\Roaming\Python\Python314\site-packages\aws_cdk\aws_detective\__init__.py
-# hypothesis_version: 6.151.6
-
-[', ', '=', 'CfnGraph', 'CfnGraphProps', 'CfnGraphProps(%s)', 'CfnMemberInvitation', 'CfnOrganizationAdmin', 'accountId', 'account_id', 'argument account_id', 'argument graph_arn', 'argument id', 'argument inspector', 'argument member_id', 'argument message', 'argument props', 'argument scope', 'argument tags', 'argument value', 'attrArn', 'attrGraphArn', 'autoEnableMembers', 'auto_enable_members', 'cfnProperties', 'graphArn', 'graph_arn', 'id', 'inspect', 'inspector', 'memberEmailAddress', 'memberId', 'member_email_address', 'member_id', 'message', 'props', 'renderProperties', 'scope', 'tags', 'tagsRaw', 'value']

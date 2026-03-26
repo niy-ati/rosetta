@@ -1,4 +1,0 @@
-# file: C:\Users\user121\AppData\Roaming\Python\Python314\site-packages\aws_cdk\aws_codeconnections\__init__.py
-# hypothesis_version: 6.151.6
-
-[', ', '=', 'CfnConnection', 'CfnConnectionProps', 'argument host_arn', 'argument id', 'argument inspector', 'argument props', 'argument scope', 'argument tags', 'argument value', 'attrConnectionArn', 'attrConnectionStatus', 'attrOwnerAccountId', 'cdkTagManager', 'cfnProperties', 'connectionName', 'connection_name', 'hostArn', 'host_arn', 'id', 'inspect', 'inspector', 'props', 'providerType', 'provider_type', 'renderProperties', 'scope', 'tags', 'value']

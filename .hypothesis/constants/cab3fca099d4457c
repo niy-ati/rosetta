@@ -1,4 +1,0 @@
-# file: C:\Users\user121\AppData\Roaming\Python\Python314\site-packages\aws_cdk\aws_docdbelastic\__init__.py
-# hypothesis_version: 6.151.6
-
-[', ', '=', 'CfnCluster', 'CfnClusterProps', 'CfnClusterProps(%s)', 'adminUserName', 'adminUserPassword', 'admin_user_name', 'admin_user_password', 'argument auth_type', 'argument id', 'argument inspector', 'argument kms_key_id', 'argument props', 'argument scope', 'argument shard_count', 'argument subnet_ids', 'argument tags', 'argument value', 'attrClusterArn', 'attrClusterEndpoint', 'authType', 'auth_type', 'cfnProperties', 'clusterName', 'cluster_name', 'id', 'inspect', 'inspector', 'kmsKeyId', 'kms_key_id', 'props', 'renderProperties', 'scope', 'shardCapacity', 'shardCount', 'shardInstanceCount', 'shard_capacity', 'shard_count', 'shard_instance_count', 'subnetIds', 'subnet_ids', 'tags', 'tagsRaw', 'value', 'vpcSecurityGroupIds']

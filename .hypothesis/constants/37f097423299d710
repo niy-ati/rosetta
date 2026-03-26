@@ -1,4 +1,0 @@
-# file: C:\Users\user121\Rosetta\rosetta_zero\lambdas\bedrock_architect\error_handler.py
-# hypothesis_version: 6.151.6
-
-[500, 'AWS_500_ERROR', 'AccessDenied', 'Code', 'Error', 'HTTPStatusCode', 'InvalidAccessKeyId', 'NoSuchBucket', 'NoSuchKey', 'RequestLimitExceeded', 'ResponseMetadata', 'SlowDown', 'ThrottlingException', 'TimeoutException', 'ValidationException', 'action_required', 'alert_type', 'artifact_id', 'bedrock', 'bedrock_architect', 'bucket', 'component', 'connection', 'content', 'error', 'error_code', 'error_message', 'error_type', 'http_status', 'key', 'operation', 's3', 'service', 'sns', 'sns_topic', 'text', 'timeout']

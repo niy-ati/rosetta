@@ -1,4 +1,0 @@
-# file: C:\Users\user121\Rosetta\rosetta_zero\lambdas\ingestion_engine\pii_scanner.py
-# hypothesis_version: 6.151.6
-
-[300, 'Account', 'CANCELLED', 'COMPLETE', 'EQ', 'FAILED', 'Macie job completed', 'Macie job timeout', 'OBJECT_KEY', 'ONE_TIME', 'UNKNOWN', 'accountId', 'and', 'application/json', 'artifact_id', 'bucketDefinitions', 'buckets', 'category', 'comparator', 'confidence', 'criterion', 'eq', 'findingIds', 'findings', 'findings_count', 'includes', 'jobId', 'jobStatus', 'job_id', 'key', 'length', 'location', 'offset', 'pii_finding_count', 'report_s3_key', 's3_bucket', 's3_key', 'scan_timestamp', 'scoping', 'sensitiveData', 'simpleScopeTerm', 'sts', 'type', 'utf-8', 'values']

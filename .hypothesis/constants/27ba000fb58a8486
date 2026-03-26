@@ -1,4 +1,0 @@
-# file: C:\Users\user121\AppData\Roaming\Python\Python314\site-packages\aws_cdk\aws_inspector\__init__.py
-# hypothesis_version: 6.151.6
-
-[', ', '=', 'CfnAssessmentTarget', 'CfnResourceGroup', 'argument id', 'argument inspector', 'argument props', 'argument scope', 'argument value', 'assessmentTargetArn', 'assessmentTargetName', 'attrArn', 'cfnProperties', 'durationInSeconds', 'duration_in_seconds', 'id', 'inspect', 'inspector', 'props', 'renderProperties', 'resourceGroupArn', 'resourceGroupTags', 'resource_group_arn', 'resource_group_tags', 'rulesPackageArns', 'rules_package_arns', 'scope', 'value']

@@ -1,4 +1,0 @@
-# file: C:\Users\user121\AppData\Roaming\Python\Python314\site-packages\botocore\waiter.py
-# hypothesis_version: 6.151.6
-
-['Code', 'Delay', 'Error', 'HTTPStatusCode', 'MaxAttempts', 'Message', 'ResponseMetadata', 'Unknown', 'WAITER', 'WaiterConfig', 'acceptors', 'argument', 'delay', 'description', 'error', 'expected', 'failure', 'matcher', 'maxAttempts', 'operation', 'path', 'pathAll', 'pathAny', 'state', 'status', 'success', 'unknown', 'version', 'wait', 'waiters', 'waiting']

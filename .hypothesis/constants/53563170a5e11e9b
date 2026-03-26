@@ -1,4 +1,0 @@
-# file: C:\Users\user121\AppData\Roaming\Python\Python314\site-packages\aws_cdk\aws_codeguruprofiler\__init__.py
-# hypothesis_version: 6.151.6
-
-[', ', '=', 'AWS_LAMBDA', 'CfnProfilingGroup', 'ChannelProperty(%s)', 'ComputePlatform', 'DEFAULT', 'IProfilingGroup', 'ProfilingGroup', 'ProfilingGroupProps', 'agentPermissions', 'agent_permissions', 'argument channel_id', 'argument channel_uri', 'argument grantee', 'argument id', 'argument inspector', 'argument principals', 'argument props', 'argument scope', 'argument tags', 'argument value', 'attrArn', 'cfnProperties', 'channelId', 'channelUri', 'channel_id', 'channel_uri', 'computePlatform', 'compute_platform', 'grantPublish', 'grantRead', 'grantee', 'id', 'inspect', 'inspector', 'principals', 'profilingGroupArn', 'profilingGroupName', 'profiling_group_arn', 'profiling_group_name', 'props', 'renderProperties', 'scope', 'tags', 'tagsRaw', 'value']

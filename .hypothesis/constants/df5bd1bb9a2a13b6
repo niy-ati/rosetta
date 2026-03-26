@@ -1,4 +1,0 @@
-# file: C:\Users\user121\AppData\Roaming\Python\Python314\site-packages\aws_cdk\aws_cloudwatch_actions\__init__.py
-# hypothesis_version: 6.151.6
-
-['AVAILABILITY', 'AutoScalingAction', 'COST', 'CRITICAL', 'Ec2Action', 'Ec2InstanceAction', 'HIGH', 'LOW', 'LambdaAction', 'MEDIUM', 'OpsItemCategory', 'OpsItemSeverity', 'PERFORMANCE', 'REBOOT', 'RECOVER', 'RECOVERY', 'SECURITY', 'STOP', 'SnsAction', 'SsmAction', 'SsmIncidentAction', 'TERMINATE', '_alarm', '_scope', 'alarm', 'argument _alarm', 'argument _scope', 'argument alarm', 'argument category', 'argument scope', 'argument severity', 'argument topic', 'bind', 'category', 'instance_action', 'lambda_function', 'response_plan_name', 'scope', 'severity', 'step_scaling_action', 'topic']

@@ -1,4 +1,0 @@
-# file: C:\Users\user121\AppData\Roaming\Python\Python314\site-packages\aws_cdk\aws_kinesisvideo\__init__.py
-# hypothesis_version: 6.151.6
-
-[', ', '=', 'CfnSignalingChannel', 'CfnStream', 'CfnStreamProps', 'CfnStreamProps(%s)', 'argument device_name', 'argument id', 'argument inspector', 'argument kms_key_id', 'argument media_type', 'argument name', 'argument props', 'argument scope', 'argument tags', 'argument type', 'argument value', 'attrArn', 'cfnProperties', 'dataRetentionInHours', 'deviceName', 'device_name', 'id', 'inspect', 'inspector', 'kmsKeyId', 'kms_key_id', 'mediaType', 'media_type', 'messageTtlSeconds', 'message_ttl_seconds', 'name', 'props', 'renderProperties', 'scope', 'tags', 'tagsRaw', 'type', 'value']

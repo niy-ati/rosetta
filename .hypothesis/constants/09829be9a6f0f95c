@@ -1,4 +1,0 @@
-# file: C:\Users\user121\AppData\Roaming\Python\Python314\site-packages\aws_xray_sdk\core\lambda_launcher.py
-# hypothesis_version: 6.151.6
-
-['/tmp/.aws-xray/', 'LAMBDA_TASK_ROOT', '_X_AMZN_TRACE_ID', 'entities', 'facade', 'initializing', 'segment', 'w+']

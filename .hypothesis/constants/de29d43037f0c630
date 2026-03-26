@@ -1,4 +1,0 @@
-# file: C:\Users\user121\AppData\Roaming\Python\Python314\site-packages\botocore\compress.py
-# hypothesis_version: 6.151.6
-
-[8192, 'Content-Encoding', 'body', 'encodings', 'gzip', 'headers', 'read', 'requiresLength', 'seek', 'tell', 'utf-8', 'v2', 'wb']

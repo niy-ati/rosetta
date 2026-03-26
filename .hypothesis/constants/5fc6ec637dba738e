@@ -1,4 +1,0 @@
-# file: C:\Users\user121\AppData\Roaming\Python\Python314\site-packages\aws_cdk\aws_elasticloadbalancingv2_targets\__init__.py
-# hypothesis_version: 6.151.6
-
-['AlbArnTarget', 'AlbTarget', 'InstanceIdTarget', 'InstanceTarget', 'IpTarget', 'LambdaTarget', 'alb', 'alb_arn', 'argument alb', 'argument alb_arn', 'argument fn', 'argument instance', 'argument instance_id', 'argument ip_address', 'argument port', 'availability_zone', 'fn', 'instance', 'instance_id', 'ip_address', 'port', 'target_group']

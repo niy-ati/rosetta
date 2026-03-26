@@ -1,4 +1,0 @@
-# file: C:\Users\user121\Rosetta\rosetta_zero\lambdas\certificate_generator\certificate_signing.py
-# hypothesis_version: 6.151.6
-
-['DIGEST', 'KMS signing failed', 'RSASSA_PSS_SHA_256', 'Signature', 'SignatureValid', 'Z', 'certificate_id', 'error', 'hash', 'kms_key_id', 'signature_length', 'signature_valid', 'signing_timestamp', 'utf-8']

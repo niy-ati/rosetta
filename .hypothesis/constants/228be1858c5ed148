@@ -1,4 +1,0 @@
-# file: C:\Users\user121\Rosetta\rosetta_zero\lambdas\bedrock_architect\handler.py
-# hypothesis_version: 6.151.6
-
-[200, 400, 500, 'AWS_REGION', 'BEDROCK_MODEL_ID', 'COBOL_KB_ID', 'Count', 'FORTRAN_KB_ID', 'KMS_KEY_ID', 'MAINFRAME_KB_ID', 'RosettaZero', 'SynthesisError', 'SynthesisSuccess', 'artifact_id', 'bedrock-architect', 'body', 'error', 'logic_map_bucket', 'logic_map_key', 'logic_map_s3_bucket', 'logic_map_s3_key', 'statusCode', 'synthesis_timestamp', 'us-east-1']

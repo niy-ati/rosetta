@@ -1,4 +1,0 @@
-# file: C:\Users\user121\Rosetta\rosetta_zero\lambdas\ingestion_engine\ears_generator.py
-# hypothesis_version: 6.151.6
-
-[', ', 'SHALL', 'artifact_id', 'bucket', 'ears_generated', 'ears_s3_key', 'entry_points_count', 'max_length', 'max_value', 'min_value', 'requirements_count', 's3_key', 'text/markdown', 'utf-8']

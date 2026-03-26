@@ -1,4 +1,0 @@
-# file: C:\Users\user121\Rosetta\rosetta_zero\lambdas\certificate_generator\error_handler.py
-# hypothesis_version: 6.151.6
-
-[500, 'AWS_500_ERROR', 'Code', 'DYNAMODB_FAILURE', 'DynamoDB', 'Error', 'Error classified', 'HTTPStatusCode', 'KMS', 'KMS operation failed', 'KMS_FAILURE', 'RequestTimeout', 'ResponseMetadata', 'S3', 'S3 operation failed', 'S3_FAILURE', 'ServiceId', 'ServiceUnavailable', 'SlowDown', 'ThrottlingException', 'VALIDATION_ERROR', 'action_required', 'alert_type', 'aws_500_error', 'classification', 'component', 'context', 'dynamodb', 'dynamodb_failure', 'error', 'error_message', 'error_type', 'kms', 'kms_failure', 's3', 's3_failure', 'unknown_error', 'validation_error', 'workflow_id']

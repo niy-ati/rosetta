@@ -1,4 +1,0 @@
-# file: C:\Users\user121\Rosetta\rosetta_zero\lambdas\workflow_orchestrator\handler.py
-# hypothesis_version: 6.151.6
-
-[200, 400, '/', 'Aggression', 'Artifact uploaded', 'Discovery', 'Event', 'Orchestrator invoked', 'Records', 'RequestId', 'ResponseMetadata', 'StatusCode', 'Synthesis', 'Trust', 'Unknown event type', 'Validation', 'artifact_id', 'body', 'bucket', 'certificate_location', 'completed', 'completed_phase', 'completion_timestamp', 'coverage_report', 'detail', 'detail-type', 'details', 'error', 'event', 'executionArn', 'execution_arn', 'ingestion_request_id', 'key', 'lambda', 'logic_map_location', 'name', 'object', 'phase', 'phase_name', 'request_id', 's3', 's3_bucket', 's3_key', 'startDate', 'start_date', 'status', 'statusCode', 'status_code', 'stepfunctions', 'test_results_summary', 'total_tests', 'trigger_trust_phase', 'triggered', 'upload_timestamp', 'workflow_id']

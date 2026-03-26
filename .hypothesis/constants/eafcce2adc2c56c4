@@ -1,4 +1,0 @@
-# file: C:\Users\user121\AppData\Roaming\Python\Python314\site-packages\aws_cdk\aws_mediastore\__init__.py
-# hypothesis_version: 6.151.6
-
-[', ', '=', 'CfnContainer', 'CfnContainerProps', 'CorsRuleProperty(%s)', 'accessLoggingEnabled', 'allowedHeaders', 'allowedMethods', 'allowedOrigins', 'allowed_headers', 'allowed_methods', 'allowed_origins', 'argument cors_policy', 'argument id', 'argument inspector', 'argument policy', 'argument props', 'argument scope', 'argument tags', 'argument value', 'attrEndpoint', 'attrId', 'cfnProperties', 'containerName', 'container_name', 'corsPolicy', 'cors_policy', 'exposeHeaders', 'expose_headers', 'id', 'inspect', 'inspector', 'lifecyclePolicy', 'lifecycle_policy', 'maxAgeSeconds', 'max_age_seconds', 'metricPolicy', 'metricPolicyRules', 'metric_policy', 'metric_policy_rules', 'objectGroup', 'objectGroupName', 'object_group', 'object_group_name', 'policy', 'props', 'renderProperties', 'scope', 'tags', 'tagsRaw', 'value']

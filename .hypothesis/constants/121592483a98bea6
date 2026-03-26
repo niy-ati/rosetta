@@ -1,4 +1,0 @@
-# file: C:\Users\user121\AppData\Roaming\Python\Python314\site-packages\aws_cdk\aws_proton\__init__.py
-# hypothesis_version: 6.151.6
-
-[', ', '=', 'CfnServiceTemplate', 'argument description', 'argument id', 'argument inspector', 'argument name', 'argument props', 'argument role_arn', 'argument scope', 'argument tags', 'argument value', 'attrArn', 'attrId', 'attrStatus', 'cfnProperties', 'codebuildRoleArn', 'codebuild_role_arn', 'componentRoleArn', 'component_role_arn', 'description', 'displayName', 'display_name', 'encryptionKey', 'encryption_key', 'environmentAccountId', 'environmentName', 'environment_name', 'id', 'inspect', 'inspector', 'managementAccountId', 'name', 'pipelineProvisioning', 'props', 'provisioning', 'renderProperties', 'roleArn', 'role_arn', 'scope', 'tags', 'tagsRaw', 'value']

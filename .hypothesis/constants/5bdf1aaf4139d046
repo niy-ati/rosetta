@@ -1,4 +1,0 @@
-# file: C:\Users\user121\Rosetta\rosetta_zero\lambdas\certificate_generator\handler.py
-# hypothesis_version: 6.151.6
-
-[200, 500, 'CERTIFICATES_BUCKET', 'CertificateGenerated', 'Count', 'EVENT_BUS_NAME', 'KMS_SIGNING_KEY_ID', 'RosettaZero', 'SNS_TOPIC_ARN', 'TEST_RESULTS_TABLE', 'application/json', 'aws:kms', 'certificate_id', 'component', 'coverage_report', 'default', 'dynamodb', 'error', 'events', 'kms', 'legacy_artifact', 'random_seed', 's3', 's3_location', 'signature_valid', 'sns', 'statusCode', 'test_results_hash', 'total_test_vectors', 'utf-8', 'workflow_id']

@@ -1,4 +1,0 @@
-# file: C:\Users\user121\AppData\Roaming\Python\Python314\site-packages\aws_cdk\aws_ivschat\__init__.py
-# hypothesis_version: 6.151.6
-
-[', ', '=', 'CfnRoom', 'CfnRoomProps', 'CfnRoomProps(%s)', 'argument bucket_name', 'argument firehose', 'argument id', 'argument inspector', 'argument name', 'argument props', 'argument s3', 'argument scope', 'argument tags', 'argument uri', 'argument value', 'attrArn', 'attrId', 'attrState', 'bucketName', 'bucket_name', 'cfnProperties', 'cloudWatchLogs', 'cloud_watch_logs', 'deliveryStreamName', 'delivery_stream_name', 'fallbackResult', 'fallback_result', 'firehose', 'id', 'inspect', 'inspector', 'logGroupName', 'log_group_name', 'maximumMessageLength', 'messageReviewHandler', 'name', 'props', 'renderProperties', 's3', 'scope', 'tags', 'tagsRaw', 'uri', 'value']

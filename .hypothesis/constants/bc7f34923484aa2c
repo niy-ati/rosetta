@@ -1,4 +1,0 @@
-# file: C:\Users\user121\AppData\Roaming\Python\Python314\site-packages\aws_lambda_powertools\logging\formatter.py
-# hypothesis_version: 6.151.6
-
-[1000, '%(asctime)s', '%(levelname)s', '%03d', '%F', ',', ':', ';', 'Root=', 'THREAD_LOCAL_KEYS', '__name__', '__notes__', 'args', 'asctime', 'created', 'exc_info', 'exc_text', 'exception', 'exception_name', 'exception_notes', 'file', 'filename', 'frames', 'funcName', 'function', 'level', 'levelname', 'levelno', 'line', 'lineno', 'location', 'message', 'milliseconds', 'module', 'msecs', 'msg', 'name', 'pathname', 'process', 'processName', 'relativeCreated', 'stack_info', 'stack_trace', 'statement', 'thread', 'threadName', 'timestamp', 'type', 'value', 'xray_trace_id']

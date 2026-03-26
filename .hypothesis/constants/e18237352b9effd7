@@ -1,4 +1,0 @@
-# file: C:\Users\user121\AppData\Roaming\Python\Python314\site-packages\aws_cdk\aws_route53profiles\__init__.py
-# hypothesis_version: 6.151.6
-
-[', ', '=', 'CfnProfile', 'CfnProfileProps', 'CfnProfileProps(%s)', 'argument arn', 'argument id', 'argument inspector', 'argument name', 'argument profile_id', 'argument props', 'argument resource_id', 'argument scope', 'argument tags', 'argument value', 'arn', 'attrArn', 'attrClientToken', 'attrId', 'attrResourceType', 'cdkTagManager', 'cfnProperties', 'id', 'inspect', 'inspector', 'name', 'profileId', 'profile_id', 'props', 'renderProperties', 'resourceArn', 'resourceId', 'resourceProperties', 'resource_arn', 'resource_id', 'resource_properties', 'scope', 'tags', 'value']

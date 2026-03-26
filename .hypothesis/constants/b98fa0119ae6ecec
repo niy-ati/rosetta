@@ -1,4 +1,0 @@
-# file: C:\Users\user121\Rosetta\rosetta_zero\utils\workflow.py
-# hypothesis_version: 6.151.6
-
-['#status', ':details', ':end_time', ':start_time', ':status', ':updated_at', 'ALL_NEW', 'Aggression', 'COMPLETED', 'Code', 'Discovery', 'Error', 'FAILED', 'IN_PROGRESS', 'NOT_STARTED', 'Phase completed', 'Phase started', 'SUCCESS', 'Synthesis', 'Trust', 'Validation', 'artifact_id', 'completion_timestamp', 'created_at', 'dynamodb', 'end_time', 'event_id', 'event_published', 'metadata', 'next_phase', 'phase', 'phase_details', 'phase_name', 'phases_initialized', 'start_time', 'status', 'timestamp', 'updated_at', 'workflow_id']

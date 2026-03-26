@@ -1,4 +1,0 @@
-# file: C:\Users\user121\AppData\Roaming\Python\Python314\site-packages\aws_xray_sdk\core\models\http.py
-# hypothesis_version: 6.151.6
-
-['HTTP_X_AMZN_TRACE_ID', 'X-Amzn-Trace-Id', 'client_ip', 'content_length', 'method', 'status', 'url', 'user_agent', 'x_forwarded_for']

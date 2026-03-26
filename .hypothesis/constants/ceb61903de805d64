@@ -1,4 +1,0 @@
-# file: C:\Users\user121\Rosetta\rosetta_zero\lambdas\bedrock_architect\synthesis.py
-# hypothesis_version: 6.151.6
-
-[0.0, 100000, '500', '503', 'Body', 'CBL', 'COBOL', 'F77', 'FORTRAN', 'MAINFRAME', '```', '```python', 'anthropic_version', 'aws:kms', 'bedrock-2023-05-31', 'bedrock-runtime', 'body', 'code_length', 'connection', 'content', 'context_length', 'entry_points', 'generate_lambda_code', 'language', 'logic_map_loaded', 'max_tokens', 'messages', 'model_id', 'role', 's3', 'service unavailable', 'side_effects', 'synthesis_complete', 'temperature', 'text', 'text/x-python', 'throttling', 'timeout', 'user', 'utf-8']

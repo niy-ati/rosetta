@@ -1,4 +1,0 @@
-# file: C:\Users\user121\AppData\Roaming\Python\Python314\site-packages\aws_cdk\aws_neptunegraph\__init__.py
-# hypothesis_version: 6.151.6
-
-[', ', '=', 'CfnGraph', 'CfnGraphProps', 'CfnGraphProps(%s)', 'argument graph_name', 'argument id', 'argument inspector', 'argument props', 'argument scope', 'argument subnet_ids', 'argument tags', 'argument value', 'argument vpc_id', 'attrEndpoint', 'attrGraphArn', 'attrGraphId', 'attrVpcEndpointId', 'cdkTagManager', 'cfnProperties', 'deletionProtection', 'deletion_protection', 'graphIdentifier', 'graphName', 'graph_identifier', 'graph_name', 'id', 'inspect', 'inspector', 'props', 'provisionedMemory', 'provisioned_memory', 'publicConnectivity', 'public_connectivity', 'renderProperties', 'replicaCount', 'replica_count', 'scope', 'securityGroupIds', 'security_group_ids', 'subnetIds', 'subnet_ids', 'tags', 'value', 'vpcId', 'vpc_id']

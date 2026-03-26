@@ -1,4 +1,0 @@
-# file: C:\Users\user121\Rosetta\rosetta_zero\lambdas\ingestion_engine\ingestion.py
-# hypothesis_version: 6.151.6
-
-['Body', 'artifact_hash', 'artifact_id', 'artifact_ingested', 'artifact_size_bytes', 'artifact_type', 'bedrock-runtime', 'ingestion_timestamp', 'macie2', 'original_s3_bucket', 'original_s3_key', 's3', 's3_bucket', 's3_key', 's3_location']

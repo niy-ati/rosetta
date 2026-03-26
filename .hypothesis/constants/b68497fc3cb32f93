@@ -1,4 +1,0 @@
-# file: C:\Users\user121\AppData\Roaming\Python\Python314\site-packages\aws_lambda_powertools\logging\logger.py
-# hypothesis_version: 6.151.6
-
-['Event received', 'INFO', 'LogCaptureHandler', 'PowertoolsFormatter', 'WARNING', '__name__', '_buffer_cache', '_buffer_config', '_pytest.logging', 'correlation_id', 'datefmt', 'exc_info', 'extra', 'false', 'filename', 'function', 'json_default', 'json_deserializer', 'json_serializer', 'level', 'line', 'log_record_order', 'msg', 'powertools_handler', 'sampling_rate', 'serialize_stacktrace', 'service', 'service_undefined', 'timestamp', 'use_rfc3339', 'utc']

@@ -1,4 +1,0 @@
-# file: C:\Users\user121\AppData\Roaming\Python\Python314\site-packages\boto3\dynamodb\transform.py
-# hypothesis_version: 6.151.6
-
-['AttributeValue', 'ConditionExpression', 'KeyExpression', 'after-call.dynamodb', 'list', 'map', 'structure', 'valid DynamoDB type']

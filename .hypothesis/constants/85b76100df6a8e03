@@ -1,4 +1,0 @@
-# file: C:\Users\user121\AppData\Roaming\Python\Python314\site-packages\aws_cdk\aws_lambda_destinations\__init__.py
-# hypothesis_version: 6.151.6
-
-[', ', '=', 'LambdaDestination', 'SnsDestination', 'SqsDestination', '_scope', 'argument _scope', 'argument event_bus', 'argument fn', 'argument queue', 'argument scope', 'argument topic', 'bind', 'event_bus', 'fn', 'queue', 'responseOnly', 'response_only', 'scope', 'topic']

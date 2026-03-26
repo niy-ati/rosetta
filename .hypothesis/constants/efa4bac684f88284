@@ -1,4 +1,0 @@
-# file: C:\Users\user121\Rosetta\rosetta_zero\lambdas\verification\comparator.py
-# hypothesis_version: 6.151.6
-
-['EOF', 'UNKNOWN', 'data', 'diff_count', 'effect_type', 'hash', 'legacy', 'legacy_byte', 'legacy_count', 'legacy_return', 'legacy_size', 'match', 'modern', 'modern_byte', 'modern_count', 'modern_return', 'modern_size', 'offset', 'operation', 'result_hash', 'stderr mismatch', 'stdout mismatch', 'test_vector_id', 'utf-8']

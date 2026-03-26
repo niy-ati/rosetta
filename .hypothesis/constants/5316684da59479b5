@@ -1,4 +1,0 @@
-# file: C:\Users\user121\AppData\Roaming\Python\Python314\site-packages\aws_lambda_powertools\shared\user_agent.py
-# hypothesis_version: 6.151.6
-
-['AWS_EXECUTION_ENV', 'NA', 'PT', 'User-Agent', 'no-op', 'register_initializer', 'request-created']

@@ -1,4 +1,0 @@
-# file: C:\Users\user121\AppData\Roaming\Python\Python314\site-packages\s3transfer\copies.py
-# hypothesis_version: 6.151.6
-
-['Bucket', 'ChecksumAlgorithm', 'Code', 'ContentLength', 'CopyPartResult', 'CopySourceIfMatch', 'CopySourceRange', 'ETag', 'Error', 'ExpectedBucketOwner', 'IfMatch', 'IfModifiedSince', 'IfNoneMatch', 'IfUnmodifiedSince', 'Key', 'MetadataDirective', 'PartNumber', 'PreconditionFailed', 'RequestPayer', 'SSECustomerAlgorithm', 'SSECustomerKey', 'SSECustomerKeyMD5', 'TaggingDirective', 'bucket', 'callbacks', 'checksum_algorithm', 'client', 'copy_source', 'extra_args', 'key', 'part_number', 'parts', 'progress', 'size', 'upload_id']
