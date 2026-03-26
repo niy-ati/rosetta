@@ -23,7 +23,6 @@ artifacts = {}
 test_results = {}
 certificates = {}
 
-# Realistic company/project names
 COMPANIES = ["Accenture Federal", "Lockheed Martin", "Northrop Grumman", "Raytheon Technologies", "Boeing Defense"]
 PROJECTS = ["COBOL Banking System", "FORTRAN Weather Simulation", "Legacy Payroll System", "Mainframe Transaction Processor", "Defense Logistics Platform"]
 
@@ -71,8 +70,7 @@ def init_mock_data():
                 "complexity": random.choice(["High", "Very High", "Critical"])
             }
         }
-    
-    # Create sample workflows with realistic progression
+
     phases = ["Discovery", "Synthesis", "Aggression", "Validation", "Trust"]
     for i, (artifact_id, artifact) in enumerate(artifacts.items()):
         workflow_id = artifact["workflowId"]
@@ -99,8 +97,7 @@ def init_mock_data():
             "completedAt": (datetime.now() - timedelta(days=random.randint(1, 5))).isoformat() + "Z" if current_phase_idx == 4 else None,
             "metadata": artifact["metadata"]
         }
-    
-    # Create sample certificates with realistic data
+
     completed_workflows = [wf for wf in workflows.values() if wf["status"] == "completed"]
     for i, workflow in enumerate(completed_workflows[:3]):
         cert_id = generate_certificate_id()
@@ -139,7 +136,6 @@ def init_mock_data():
 
 init_mock_data()
 
-# Dashboard endpoints
 @app.route('/api/dashboard/stats', methods=['GET'])
 def get_dashboard_stats():
     active_workflows = len([w for w in workflows.values() if w['status'] == 'processing'])
@@ -182,7 +178,6 @@ def get_dashboard_stats():
         }
     })
 
-# Artifacts endpoints
 @app.route('/api/artifacts', methods=['GET'])
 def get_artifacts():
     page = int(request.args.get('page', 1))
@@ -271,7 +266,6 @@ def download_artifact(artifact_id):
         }
     })
 
-# Workflows endpoints
 @app.route('/api/workflows', methods=['GET'])
 def get_workflows():
     page = int(request.args.get('page', 1))
@@ -307,7 +301,6 @@ def search_workflows():
     results = [w for w in workflows.values() if query in w['workflowId'].lower() or query in w['artifactName'].lower()]
     return jsonify({"success": True, "data": results})
 
-# Test results endpoints
 @app.route('/api/workflows/<workflow_id>/tests', methods=['GET'])
 def get_test_results(workflow_id):
     # Generate mock test results
@@ -384,7 +377,6 @@ def verify_certificate(cert_id):
         }
     })
 
-# System health endpoints
 @app.route('/api/system/health', methods=['GET'])
 def get_system_health():
     return jsonify({
@@ -448,7 +440,6 @@ def generate_compliance_report():
         }
     })
 
-# Logs endpoints
 @app.route('/api/logs', methods=['GET'])
 def get_logs():
     return jsonify({
