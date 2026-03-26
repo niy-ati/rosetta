@@ -43,3 +43,10 @@ wheels/
 # AWS
 .aws-sam/
 node_modules/
+
+# folders imp
+.kiro/
+.hypothesis/
+cdk.context.json
+setup.sh
+deploy.sh
