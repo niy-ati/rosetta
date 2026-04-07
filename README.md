@@ -5,7 +5,7 @@
 [![Rust Engine](https://img.shields.io/badge/Engine-Rust-DEA584?logo=rust&logoColor=white)](https://www.rust-lang.org/)
 [![Infrastructure: AWS CDK](https://img.shields.io/badge/Infrastructure-AWS%20CDK-FF9900?logo=amazon-aws&logoColor=white)](https://aws.amazon.com/cdk/)
 
-**Rosetta Zero** is a deterministic, agentic framework engineered to refactor legacy binary logic and monolithic codebases into verified, cloud-native serverless functions. By leveraging a **Double-Blind Verification** protocol, Rosetta ensures $1:1$ logic parity while transitioning mission-critical infrastructure to modern, memory-safe environments.
+**Rosetta Zero** is a deterministic, agentic framework engineered to refactor legacy binary logic and monolithic codebases into verified, cloud-native serverless functions. By leveraging a **Double-Blind Verification** protocol, Rosetta ensures 1:1 logic parity while transitioning mission-critical infrastructure to modern, memory-safe environments.
 
 ---
 
